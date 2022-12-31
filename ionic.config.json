@@ -1,0 +1,7 @@
+{
+  "name": "CarLookup",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
